@@ -3,7 +3,9 @@
 <p align="center">
 Projeto Discover desenvolvido pela Rocketseat para aprendizado de tecnologias WEB.  <br/>
 </p>
+
 <br>
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
