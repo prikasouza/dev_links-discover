@@ -4,6 +4,10 @@
 Projeto Discover desenvolvido pela Rocketseat para aprendizado de tecnologias WEB.  <br/>
 </p>
 
+<p align="center">
+  <img alt="projeto DevLinks" src="https://github.com/maykbrito/devlinks/blob/main/.github/preview.jpg" width="100%">
+</p>
+
 <br>
 
 ## 🚀 Tecnologias
